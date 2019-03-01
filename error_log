@@ -1,0 +1,1 @@
+[28-Feb-2019 14:52:40 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/xa6t5q4datba/public_html/app/Http/Controllers/ShareController.php on line 89
